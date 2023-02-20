@@ -20,8 +20,10 @@ author: Fangcong Yin
 ###############################################
 
 navbar-links:
+  Home: ""
   CV: "CV.pdf"
   Interst: "interest"
+  
 
 ################
 # --- Logo --- #
