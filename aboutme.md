@@ -1,16 +1,14 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Fangcong Yin
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Hi! My name is Fangcong Yin. I am a senior undergraduate student at Cornell University where I study Information Science, Systems, and Technology. 
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+I am interested in research in natural language processing and psycholinguistics, specifically in the following topics:
 
-What else do you need?
+- Controllable text generation with neural models, especially automatic text summarization
+- Computational modeling of the cognitive process underlying language production and comprehension
+- Interpretable neural models
 
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+I have been fortunate to work with Professor Marten van Schijndel and Professor Claire Cardie at Cornell University and Professor Meng Jiang at the University of Notre Dame. 
