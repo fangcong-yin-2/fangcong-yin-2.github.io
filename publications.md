@@ -4,7 +4,7 @@ title: Publications
 ---
 Xi Ye, <ins>Fangcong Yin</ins>, Yinghui He, Joie Zhang, Howard Yen, Tianyu Gao, Greg Durrett, Danqi Chen. 2025. [LongProc: Benchmarking Long-Context Language Models on Long Procedural Generation](https://arxiv.org/abs/2501.05414), Preprint.
 
-Xinyu Zhao, <ins>Fangcong Yin</ins>, and Greg Durrett. 2025. [Understanding Synthetic Context Extension via Retrieval Heads](https://arxiv.org/abs/2410.22316), *Proceedings of ICML 2025*
+Xinyu Zhao, <ins>Fangcong Yin</ins>, and Greg Durrett. 2025. [Understanding Synthetic Context Extension via Retrieval Heads](https://arxiv.org/abs/2410.22316), *Proceedings of ICML 2025*.
 
 Zayne Sprague, <ins>Fangcong Yin</ins>, Juan Diego Rodriguez, Dongwei Jiang, Manya Wadhwa, Prasann Singhal, Xinyu Zhao, Xi Ye, Kyle Mahowald, and Greg Durrett. 2025. [To CoT or not to CoT? Chain-of-thought Helps Mainly on Math and Symbolic Reasoning](https://arxiv.org/abs/2409.12183), *Proceedings of ICLR 2025*.
 
