@@ -2,7 +2,9 @@
 layout: page
 title: Publications
 ---
-Liyan Tang, Grace Kim, Xinyu Zhao, Thom Lake, Wenxuan Ding, <ins>Fangcong Yin</ins>,, Prasann Singhal, Manya Wadhwa, Zeyu Leo Liu, Zayne Sprague, Ramya Namuduri, Bodun Hu, Juan Diego Rodriguez, Puyuan Peng, Greg Durrett. 2025. [ChartMuseum: Testing Visual Reasoning Capabilities of Large Vision-Language Models](https://arxiv.org/abs/2505.13444), Preprint.
+<ins>Fangcong Yin</ins>, Zeyu Leo Liu, Liu Leqi, Xi Ye, and Greg Durrett. [Learning Composable Chains-of-Thought](https://arxiv.org/abs/2505.22635), Preprint.
+
+Liyan Tang, Grace Kim, Xinyu Zhao, Thom Lake, Wenxuan Ding, <ins>Fangcong Yin</ins>, Prasann Singhal, Manya Wadhwa, Zeyu Leo Liu, Zayne Sprague, Ramya Namuduri, Bodun Hu, Juan Diego Rodriguez, Puyuan Peng, and Greg Durrett. 2025. [ChartMuseum: Testing Visual Reasoning Capabilities of Large Vision-Language Models](https://arxiv.org/abs/2505.13444), Preprint.
 
 Xi Ye, <ins>Fangcong Yin</ins>, Yinghui He, Joie Zhang, Howard Yen, Tianyu Gao, Greg Durrett, and Danqi Chen. 2025. [LongProc: Benchmarking Long-Context Language Models on Long Procedural Generation](https://arxiv.org/abs/2501.05414), Preprint.
 
