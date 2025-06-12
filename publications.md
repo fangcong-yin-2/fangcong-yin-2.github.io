@@ -4,6 +4,8 @@ title: Publications
 ---
 <ins>Fangcong Yin</ins>, Zeyu Leo Liu, Liu Leqi, Xi Ye, and Greg Durrett. [Learning Composable Chains-of-Thought](https://arxiv.org/abs/2505.22635), Preprint.
 
+Wuwei Zhang, <ins>Fangcong Yin</ins>, Howard Yen, Danqi Chen, and Xi Ye. 2025. [Query-Focused Retrieval Heads Improve Long-Context Reasoning and Re-ranking](https://arxiv.org/abs/2506.09944), Preprint.
+
 Femi Bello, Anubrata Das, Fanzhi Zeng, <ins>Fangcong Yin</ins>, and Liu Leqi. [Linear Representation Transferability Hypothesis: Leveraging Small Models to Steer Large Models](https://arxiv.org/abs/2506.00653), Preprint.
 
 Liyan Tang, Grace Kim, Xinyu Zhao, Thom Lake, Wenxuan Ding, <ins>Fangcong Yin</ins>, Prasann Singhal, Manya Wadhwa, Zeyu Leo Liu, Zayne Sprague, Ramya Namuduri, Bodun Hu, Juan Diego Rodriguez, Puyuan Peng, and Greg Durrett. 2025. [ChartMuseum: Testing Visual Reasoning Capabilities of Large Vision-Language Models](https://arxiv.org/abs/2505.13444), Preprint.
