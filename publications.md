@@ -10,7 +10,7 @@ Femi Bello, Anubrata Das, Fanzhi Zeng, <ins>Fangcong Yin</ins>, and Liu Leqi. [L
 
 Liyan Tang, Grace Kim, Xinyu Zhao, Thom Lake, Wenxuan Ding, <ins>Fangcong Yin</ins>, Prasann Singhal, Manya Wadhwa, Zeyu Leo Liu, Zayne Sprague, Ramya Namuduri, Bodun Hu, Juan Diego Rodriguez, Puyuan Peng, and Greg Durrett. 2025. [ChartMuseum: Testing Visual Reasoning Capabilities of Large Vision-Language Models](https://arxiv.org/abs/2505.13444), Preprint.
 
-Xi Ye, <ins>Fangcong Yin</ins>, Yinghui He, Joie Zhang, Howard Yen, Tianyu Gao, Greg Durrett, and Danqi Chen. 2025. [LongProc: Benchmarking Long-Context Language Models on Long Procedural Generation](https://arxiv.org/abs/2501.05414), Preprint.
+Xi Ye, <ins>Fangcong Yin</ins>, Yinghui He, Joie Zhang, Howard Yen, Tianyu Gao, Greg Durrett, and Danqi Chen. 2025. [LongProc: Benchmarking Long-Context Language Models on Long Procedural Generation](https://arxiv.org/abs/2501.05414), *Proceedings of COLM 2025*.
 
 Xinyu Zhao, <ins>Fangcong Yin</ins>, and Greg Durrett. 2025. [Understanding Synthetic Context Extension via Retrieval Heads](https://arxiv.org/abs/2410.22316), *Proceedings of ICML 2025*.
 
