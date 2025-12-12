@@ -2,7 +2,7 @@
 layout: page
 title: Publications
 ---
-<ins>Fangcong Yin</ins>, Zeyu Leo Liu, Liu Leqi, Xi Ye, and Greg Durrett. [Learning Composable Chains-of-Thought](https://arxiv.org/abs/2505.22635), Preprint.
+<ins>Fangcong Yin</ins>, Zeyu Leo Liu, Liu Leqi, Xi Ye, and Greg Durrett. [Learning Composable Chains-of-Thought](https://arxiv.org/abs/2505.22635), *Workshop on Foundations of Reasoning in Language Models (FoRLM), NeurIPS 2025*.
 
 Wuwei Zhang, <ins>Fangcong Yin</ins>, Howard Yen, Danqi Chen, and Xi Ye. 2025. [Query-Focused Retrieval Heads Improve Long-Context Reasoning and Re-ranking](https://arxiv.org/abs/2506.09944), *Proceedings of EMNLP 2025*.
 
