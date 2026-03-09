@@ -2,6 +2,9 @@
 layout: page
 title: Publications
 ---
+Xi Ye, Wuwei Zhang, <ins>Fangcong Yin</ins>, Howard Yen, and Danqi Chen. [DySCO: Dynamic Attention-Scaling Decoding for Long-Context LMs
+](https://arxiv.org/abs/2602.22175), Preprint. 
+
 <ins>Fangcong Yin</ins>, Zeyu Leo Liu, Liu Leqi, Xi Ye, and Greg Durrett. [Learning Composable Chains-of-Thought](https://arxiv.org/abs/2505.22635), *Workshop on Foundations of Reasoning in Language Models (FoRLM), NeurIPS 2025*.
 
 Wuwei Zhang, <ins>Fangcong Yin</ins>, Howard Yen, Danqi Chen, and Xi Ye. 2025. [Query-Focused Retrieval Heads Improve Long-Context Reasoning and Re-ranking](https://arxiv.org/abs/2506.09944), *Proceedings of EMNLP 2025*.
