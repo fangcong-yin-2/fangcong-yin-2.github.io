@@ -4,6 +4,7 @@ title: Publications
 ---
 
 # 2026
+Songtao Wang, Quang Hieu Pham, <ins>Fangcong Yin</ins>, Xinpeng Wang, Jocelyn Qiaochu Chen, Greg Durrett, Xi Ye. [Detecting and Suppressing Reward Hacking with Gradient Fingerprints](https://arxiv.org/abs/2604.16242), Preprint.
   
 Xi Ye, Wuwei Zhang, <ins>Fangcong Yin</ins>, Howard Yen, and Danqi Chen. [DySCO: Dynamic Attention-Scaling Decoding for Long-Context LMs
 ](https://arxiv.org/abs/2602.22175), Preprint. 
