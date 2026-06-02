@@ -6,7 +6,7 @@ title: Publications
 # 2026
 Songtao Wang, Quang Hieu Pham, <ins>Fangcong Yin</ins>, Xinpeng Wang, Jocelyn Qiaochu Chen, Greg Durrett, Xi Ye. [Detecting and Suppressing Reward Hacking with Gradient Fingerprints](https://arxiv.org/abs/2604.16242), Preprint.
   
-Xi Ye, Wuwei Zhang, <ins>Fangcong Yin</ins>, Howard Yen, and Danqi Chen. [DySCO: Dynamic Attention-Scaling Decoding for Long-Context LMs
+Xi Ye\*, Wuwei Zhang\*, <ins>Fangcong Yin</ins>, Howard Yen, and Danqi Chen. [DySCO: Dynamic Attention-Scaling Decoding for Long-Context LMs
 ](https://arxiv.org/abs/2602.22175), Preprint. 
 
 # 2025
@@ -18,7 +18,7 @@ Liyan Tang, Grace Kim, Xinyu Zhao, Thom Lake, Wenxuan Ding, <ins>Fangcong Yin</i
 
 Femi Bello, Anubrata Das, Fanzhi Zeng, <ins>Fangcong Yin</ins>, and Liu Leqi. [Linear Representation Transferability Hypothesis: Leveraging Small Models to Steer Large Models](https://arxiv.org/abs/2506.00653), Preprint.
 
-Xi Ye, <ins>Fangcong Yin</ins>, Yinghui He, Joie Zhang, Howard Yen, Tianyu Gao, Greg Durrett, and Danqi Chen. 2025. [LongProc: Benchmarking Long-Context Language Models on Long Procedural Generation](https://arxiv.org/abs/2501.05414), *Proceedings of COLM 2025*.
+Xi Ye, <ins>Fangcong Yin</ins>\*, Yinghui He\*, Joie Zhang\*, Howard Yen\*, Tianyu Gao, Greg Durrett, and Danqi Chen. 2025. [LongProc: Benchmarking Long-Context Language Models on Long Procedural Generation](https://arxiv.org/abs/2501.05414), *Proceedings of COLM 2025*.
 
 Xinyu Zhao, <ins>Fangcong Yin</ins>, and Greg Durrett. 2025. [Understanding Synthetic Context Extension via Retrieval Heads](https://arxiv.org/abs/2410.22316), *Proceedings of ICML 2025*.
 
