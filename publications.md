@@ -4,10 +4,14 @@ title: Publications
 ---
 
 # 2026
-Songtao Wang, Quang Hieu Pham, <ins>Fangcong Yin</ins>, Xinpeng Wang, Jocelyn Qiaochu Chen, Greg Durrett, Xi Ye. [Detecting and Suppressing Reward Hacking with Gradient Fingerprints](https://arxiv.org/abs/2604.16242), Preprint.
+
+Liyan Tang\*, <ins>Fangcong Yin\*</ins>, and Greg Durrett. [Visually Grounded Self-Reflection for Vision-Language Models via Reinforcement Learning](https://arxiv.org/abs/2607.02490), Preprint. 
+
+Manas Mehta, <ins>Fangcong Yin</ins>, Howard Yen, and Greg Durrett. [Randomized YaRN Improves Length Generalization for Long-Context Reasoning](https://arxiv.org/abs/2606.23687), Preprint. 
+
+Songtao Wang, Quang Hieu Pham, <ins>Fangcong Yin</ins>, Xinpeng Wang, Jocelyn Qiaochu Chen, Greg Durrett, and Xi Ye. [Detecting and Suppressing Reward Hacking with Gradient Fingerprints](https://arxiv.org/abs/2604.16242), *Proceedings of COLM 2026*.
   
-Xi Ye\*, Wuwei Zhang\*, <ins>Fangcong Yin</ins>, Howard Yen, and Danqi Chen. [DySCO: Dynamic Attention-Scaling Decoding for Long-Context LMs
-](https://arxiv.org/abs/2602.22175), Preprint. 
+Xi Ye\*, Wuwei Zhang\*, <ins>Fangcong Yin</ins>, Howard Yen, and Danqi Chen. [DySCO: Dynamic Attention-Scaling Decoding for Long-Context LMs](https://arxiv.org/abs/2602.22175), Preprint. 
 
 # 2025
 <ins>Fangcong Yin</ins>, Zeyu Leo Liu, Liu Leqi, Xi Ye, and Greg Durrett. [Learning Composable Chains-of-Thought](https://arxiv.org/abs/2505.22635), *Workshop on Foundations of Reasoning in Language Models (FoRLM), NeurIPS 2025*.
