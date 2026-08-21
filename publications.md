@@ -5,16 +5,18 @@ title: Publications
 
 # 2026
 
-Liyan Tang\*, <ins>Fangcong Yin\*</ins>, and Greg Durrett. [Visually Grounded Self-Reflection for Vision-Language Models via Reinforcement Learning](https://arxiv.org/abs/2607.02490), Preprint. 
-
-Manas Mehta, <ins>Fangcong Yin</ins>, Howard Yen, and Greg Durrett. [Randomized YaRN Improves Length Generalization for Long-Context Reasoning](https://arxiv.org/abs/2606.23687), Preprint. 
+Manas Mehta, <ins>Fangcong Yin</ins>, Howard Yen, and Greg Durrett. [Randomized YaRN Improves Length Generalization for Long-Context Reasoning](https://arxiv.org/abs/2606.23687), *Findings of EMNLP 2026*.
 
 Songtao Wang, Quang Hieu Pham, <ins>Fangcong Yin</ins>, Xinpeng Wang, Jocelyn Qiaochu Chen, Greg Durrett, and Xi Ye. [Detecting and Suppressing Reward Hacking with Gradient Fingerprints](https://arxiv.org/abs/2604.16242), *Proceedings of COLM 2026*.
-  
+
+Liyan Tang\*, <ins>Fangcong Yin\*</ins>, and Greg Durrett. [Visually Grounded Self-Reflection for Vision-Language Models via Reinforcement Learning](https://arxiv.org/abs/2607.02490), Preprint. 
+
 Xi Ye\*, Wuwei Zhang\*, <ins>Fangcong Yin</ins>, Howard Yen, and Danqi Chen. [DySCO: Dynamic Attention-Scaling Decoding for Long-Context LMs](https://arxiv.org/abs/2602.22175), Preprint. 
 
+Omatharv Bharat Vaidya, Connor Thomas Jerzak, Zayne Sprague, <ins>Fangcong Yin</ins>, Nhat Ho. [When Many Answers Are Valid, Voting Fails: Symbolic Verification for Best-of-K Causal Reasoning in LLMs](https://arxiv.org/abs/2608.03506), Preprint.
+
 # 2025
-<ins>Fangcong Yin</ins>, Zeyu Leo Liu, Liu Leqi, Xi Ye, and Greg Durrett. [Learning Composable Chains-of-Thought](https://arxiv.org/abs/2505.22635), *Workshop on Foundations of Reasoning in Language Models (FoRLM), NeurIPS 2025*.
+<ins>Fangcong Yin</ins>, Zeyu Leo Liu, Liu Leqi, Xi Ye, and Greg Durrett. [Learning Composable Chains-of-Thought](https://arxiv.org/abs/2505.22635), *Findings of EMNLP 2026; Workshop on Foundations of Reasoning in Language Models (FoRLM), NeurIPS 2025*.
 
 Wuwei Zhang, <ins>Fangcong Yin</ins>, Howard Yen, Danqi Chen, and Xi Ye. 2025. [Query-Focused Retrieval Heads Improve Long-Context Reasoning and Re-ranking](https://arxiv.org/abs/2506.09944), *Proceedings of EMNLP 2025*.
 
@@ -32,5 +34,5 @@ Zayne Sprague, <ins>Fangcong Yin</ins>, Juan Diego Rodriguez, Dongwei Jiang, Man
 <ins>Fangcong Yin</ins>, Xi Ye, and Greg Durrett. 2024. [LoFiT: Localized Fine-tuning on LLM Representations](https://arxiv.org/abs/2406.01563), *Proceedings of NeurIPS 2024*.
 
 # 2023
-<ins>Fangcong Yin</ins> and Marten van Schijndel. 2023. [Linguistic Compression in Single-Sentence Human-Written Summaries](https://aclanthology.org/2023.findings-emnlp.532/), *Findings of the Conference on Empirical Methods for Natural Language Processing (EMNLP)*.
+<ins>Fangcong Yin</ins> and Marten van Schijndel. 2023. [Linguistic Compression in Single-Sentence Human-Written Summaries](https://aclanthology.org/2023.findings-emnlp.532/), *Findings of EMNLP 2023*.
 
