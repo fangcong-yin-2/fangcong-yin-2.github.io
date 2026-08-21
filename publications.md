@@ -5,7 +5,7 @@ title: Publications
 
 # 2026
 
-Manas Mehta, <ins>Fangcong Yin</ins>, Howard Yen, and Greg Durrett. [Randomized YaRN Improves Length Generalization for Long-Context Reasoning](https://arxiv.org/abs/2606.23687), *Findings of EMNLP 2026*.
+Manas Mehta, <ins>Fangcong Yin</ins>, and Greg Durrett. [Randomized YaRN Improves Length Generalization for Long-Context Reasoning](https://arxiv.org/abs/2606.23687), *Findings of EMNLP 2026*.
 
 Songtao Wang, Quang Hieu Pham, <ins>Fangcong Yin</ins>, Xinpeng Wang, Jocelyn Qiaochu Chen, Greg Durrett, and Xi Ye. [Detecting and Suppressing Reward Hacking with Gradient Fingerprints](https://arxiv.org/abs/2604.16242), *Proceedings of COLM 2026*.
 
