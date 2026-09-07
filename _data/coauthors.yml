@@ -1,0 +1,13 @@
+# Maps coauthor last names to homepage links, so their names become hyperlinks
+# in the publications list. Add an entry per coauthor you want linked.
+"durrett":
+  - firstname: ["Greg", "G."]
+    url: https://gregdurrett.github.io/
+
+"van schijndel":
+  - firstname: ["Marten", "M."]
+    url: https://vansky.github.io/
+
+"schijndel":
+  - firstname: ["Marten", "M."]
+    url: https://vansky.github.io/

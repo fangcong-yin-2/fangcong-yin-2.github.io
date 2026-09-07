@@ -1,0 +1,26 @@
+"EMNLP":
+  url: https://aclanthology.org/venues/emnlp/
+  color: "#b31b1b"
+
+"COLM":
+  url: https://colmweb.org/
+  color: "#00369f"
+
+"NeurIPS":
+  url: https://neurips.cc/
+  color: "#654b9c"
+
+"ICML":
+  url: https://icml.cc/
+  color: "#0f6e5e"
+
+"ICLR":
+  url: https://iclr.cc/
+  color: "#c25e00"
+
+"arXiv":
+  url: https://arxiv.org/
+  color: "#7d7d7d"
+
+"Preprint":
+  color: "#7d7d7d"

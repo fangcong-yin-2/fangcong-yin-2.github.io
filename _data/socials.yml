@@ -1,0 +1,9 @@
+# Social media links and usernames, displayed in the order defined here.
+# Docs: https://github.com/george-gca/jekyll-socials
+cv_pdf: /assets/pdf/CV.pdf # path to your CV PDF file
+email: fy666@nyu.edu # your email address
+github_username: fangcong-yin-2 # your GitHub username
+scholar_userid: u_-1TRIAAAAJ&hl # TODO: add your Google Scholar user ID (the string after "user=" in your profile URL)
+# semanticscholar_id: # TODO: add your Semantic Scholar author ID
+x_username: fangcong_y10593 # TODO: add if you want an X/Twitter icon
+linkedin_username: fangcong-yin # TODO: add if you want a LinkedIn icon
